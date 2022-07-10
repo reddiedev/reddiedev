@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, TailwindCSS,NextJS, Firebase, and Supabase**
 
-- 👨‍💻 All of my projects are available at [https://www.reddie.dev](https://www.reddie.dev)
+- 👨‍💻 All of my projects are available at [https://www.reddie.dev](https://www.reddie.dev) (WIP!)
 
 - 💬 Ask me about **ReactJS and TailwindCSS**
 
