@@ -1,18 +1,4 @@
-<h1 align="center">Hi 👋, I'm reddiedev</h1>
-<h3 align="center">Electronics Engineering sophomore and aspiring Backend Engineer based in Manila</h3>
+# Hey There! 👋
+**I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I'm interested in code, public transit, and building projects to create belonging. I work on random projects in my free time, a lot involving Discord!
 
-- 🌱 I’m currently learning **ReactJS, TailwindCSS,NextJS, Firebase, and Supabase**
-
-- 👨‍💻 All of my projects are available at [https://www.reddie.dev](https://www.reddie.dev) (WIP!)
-
-- 💬 Ask me about **ReactJS and TailwindCSS**
-
-- 📫 How to reach me **hello@reddie.dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reddiedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reddiedev" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
