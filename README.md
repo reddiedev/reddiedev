@@ -1,4 +1,8 @@
 # Hey There! 👋
-**I'm Thijs** - I'm a fullstack developer, maker, and Stanford student. I'm interested in code, public transit, and building projects to create belonging. I work on random projects in my free time, a lot involving Discord!
+**I'm [reddiedev](https://www.reddie.dev)** - I'm a fullstack developer and electronics engineer. I like to make stuff!
 
+## Links
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://linkedin.com/in/reddiedv)
+
+## Skills
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)<br/>
